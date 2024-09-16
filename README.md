@@ -5,13 +5,13 @@ Click to download dataset
 [diabetes.csv](https://github.com/user-attachments/files/17015876/diabetes.csv)
 
 Required:
+
 1. Anaconda
 2. Python
-   
-  1. Jupyter extension
-  2. Python extension
-     
-    1. Pandas module
-    2. Seaborn module
-    3. matplotlib.pyplot module
+3. Jupyter extension
+4. Python extension
+5. Pandas module
+6. Seaborn module
+7. matplotlib.pyplot module
 
+![alt text](<Scatter Plot.png>)
